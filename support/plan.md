@@ -175,7 +175,7 @@ run in parallel.
   - Heading hierarchy is consistent throughout
   - File is valid UTF-8 plain text
 
-- [ ] **7.3** Commit the final `public/llms.txt` and all `support/` files.
+- [x] **7.3** Commit the final `public/llms.txt` and all `support/` files.
 
 ---
 
